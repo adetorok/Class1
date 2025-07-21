@@ -7,7 +7,5 @@
 </head>
 <body>
     <h1>Hello Git World!</h1>
-    <p1>Hello Git World!</p1>
-    <p2>Hello Git World!</p2>
 </body>
 </html>
